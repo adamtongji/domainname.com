@@ -1,21 +1,0 @@
-]0;~/Desktop/Blog/Rblogdown[?1034hadam:Rblogdown apple$ Git[K[K[Kgit remote add https://github.com/adamtongji/domainname.com.git
-fatal: Not a git repository (or any of the parent directories): .git
-]0;~/Desktop/Blog/Rblogdownadam:Rblogdown apple$ gi [Kt init
-Initialized empty Git repository in /Users/apple/Desktop/Blog/Rblogdown/.git/
-]0;~/Desktop/Blog/Rblogdownadam:Rblogdown apple$ git initremote add https://github.com/adamtongji/domainname.com.git
-usage: git remote add [<options>] <name> <url>
-
-    -f, --fetch           fetch the remote branches
-    --tags                import all tags and associated objects when fetching
-                          or do not fetch any tag at all (--no-tags)
-    -t, --track <branch>  branch(es) to track
-    -m, --master <branch>
-                          master branch
-    --mirror[=<push|fetch>]
-                          set up remote as a mirror to push to or fetch from
-
-]0;~/Desktop/Blog/Rblogdownadam:Rblogdown apple$ git remote add https://github.com/adamtongji/domainname.com.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cinit[Kremote add https://github.com/adamtongji/domainname.com.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cinit[Kremote add https://github.com/adamtongji/domainname.com.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cinit[Kremote add https://github.com/adamtongji/domainname.com.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kgit remote add https://github.com/adamtongji/domainname.com.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cinit[Kremote add https://github.com/adamtongji/domainname.com.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C https://github.com/adamtongji/domainname.com.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Co https://github.com/adamtongji/domainname.com.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cr https://github.com/adamtongji/domainname.com.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ci https://github.com/adamtongji/domainname.com.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cg https://github.com/adamtongji/domainname.com.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ci https://github.com/adamtongji/domainname.com.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cn https://github.com/adamtongji/domainname.com.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C https://github.com/adamtongji/domainname.com.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-]0;~/Desktop/Blog/Rblogdownadam:Rblogdown apple$ git m[Kremote -v
-origin	https://github.com/adamtongji/domainname.com.git (fetch)
-origin	https://github.com/adamtongji/domainname.com.git (push)
-]0;~/Desktop/Blog/Rblogdownadam:Rblogdown apple$ git add .

@@ -1,7 +1,12 @@
 # History files
-.Rhistory
 .Rapp.history
-
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+public
+static/figures
+blogdown
 # Session Data files
 .RData
 
